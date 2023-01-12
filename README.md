@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😀 My name is Zachary Clarke 
+- 📊 I'm a Data Analyst 
+- 📖 I want to learn more about Machine Learning and AI 
+- 📫 You can reach me through LinkedIn - https://www.linkedin.com/in/zachary-te-clarke/ or my email address – zteclarke@outlook.com
+
+
 <!--
 **ZteClarke/ZteClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
